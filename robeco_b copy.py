@@ -6,11 +6,11 @@ def multiply(a,b):
     return c
 
 
-def divide(a,b):
-    c = a/b
+def subtract(a,b):
+    c = a-b
     return c
 
-print(divide(10,15))
+print(subtract(10,15))
 print(multiply(10,15))
 print(add(10,15))
 
